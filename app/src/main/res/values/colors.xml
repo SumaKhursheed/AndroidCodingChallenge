@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#FF082B59</color>
+    <color name="colorPrimaryDark">#051e3e </color>
+    <color name="colorAccent">#00ACC1</color>
+
+    <color name="textColorDark">#212121</color>
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="colorBackground">#FFEFEBE9</color>
+
+    <color name="colorTabSelected">#FF3E4F66</color>
+    <color name="buttonColor">#00ACC1</color>
+    <color name="buttonColorDark">#00796b</color>
+    <color name="cart_color_torquise">#76ffff</color>
+    <color name="colorTextBlack">#000000</color>
+    <color name="colorTransBg">#26000000</color>
+</resources>

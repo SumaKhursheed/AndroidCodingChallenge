@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MovieReviews</string>
+
+    <string name="title_name">Newyork Times</string>
+
+    <!-- Network Strings -->
+    <string name="retry">Retry</string>
+    <string name="network_error">No Network Connection!!</string>
+    <string name="no_internet">Please enable Wi-Fi or mobile data for internet connectivity.</string>
+    <string name="title_activity_home_page">HomePageActivity</string>
+
+    <string name="button_go_in">Click here for latest Updates</string>
+    <string name="homefragment_title">News</string>
+    <string name="reviewpage_title">Reviews</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="headline">Headline</string>
+    <string name="reviewer">Reviewer</string>
+    <string name="date">date</string>
+    <string name="description">Get Latest reviews on upcomiing movies, and the ones recently released in theatres near you. Lets see what the critics have to say about them.</string>
+    <string name="detail">Details</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="summary">Summary</string>
+    <string name="no_current_ratings">No current ratings</string>
+    <string name="rated">Rated:</string>
+    <string name="published">Published:</string>
+    <string name="link">link</string>
+</resources>

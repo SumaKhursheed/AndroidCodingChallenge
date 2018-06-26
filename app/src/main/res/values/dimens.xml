@@ -1,0 +1,9 @@
+<resources>
+
+    <dimen name="app_toolbar_height">65dp</dimen>
+
+    <dimen name="dimens_progress_bar_width">32dp</dimen>
+    <dimen name="dimens_progress_bar_height">32dp</dimen>
+    <dimen name="dimens_progress_bar_margin">16dp</dimen>
+
+</resources>
